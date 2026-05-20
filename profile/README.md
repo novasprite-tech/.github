@@ -10,7 +10,7 @@ NovaSprite is an infrastructure company providing hyper-scaled AI asset generati
 To ensure absolute consistency and prevent art-style bleeding, all rendering pipelines operate within strict enterprise sandboxes. 
 
 * **Proprietary Models:** Maintained in air-gapped internal repositories.
-* **Client Applications:** Source code for the NovaSprite web portal and Velvet Rope API is restricted to internal engineering teams.
+* **Client Applications:** Source code for the NovaSprite web portal and API is restricted to internal engineering teams.
 * **Open Source:** Public SDKs and integration tooling will be published here upon General Availability (Q4 2026).
 
 ---
